@@ -20,6 +20,7 @@ LIBS += -L/home/fuher/Desktop/github/opencv/build/lib \
 
 SOURCES += \
         main.cpp \
+        server/opencvmodels.cpp \
         server/ovtaskimage.cpp \
         server/tcpservervo.cpp \
         server/tcpsocketvo.cpp
@@ -33,6 +34,7 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
 
 HEADERS += \
+    server/opencvmodels.h \
     server/ovtaskimage.h \
     server/tcpservervo.h \
     server/tcpsocketvo.h
