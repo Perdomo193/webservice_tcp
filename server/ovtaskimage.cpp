@@ -20,9 +20,9 @@ void OvTaskImage::run() {
 
     QJsonObject output;
     output.insert("user", params["user"]);
-    output.insert("path", params["path"]);
-    output.insert("name", params["name"].toString() + params["action"].toString());
-    output.insert("extension", params["extension"]);
+    output.insert("path", path);
+    output.insert("name", name + "-" + acti);
+    output.insert("extension", exte);
     QJsonDocument docOutput(output);
     emit Response(docOutput.toJson(QJsonDocument::Compact));
 }

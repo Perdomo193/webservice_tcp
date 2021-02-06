@@ -36,5 +36,3 @@ HEADERS += \
     server/ovtaskimage.h \
     server/tcpservervo.h \
     server/tcpsocketvo.h
-
-
