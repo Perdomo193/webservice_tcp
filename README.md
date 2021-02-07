@@ -1,6 +1,6 @@
 ![](https://github.com/Perdomo193/webservice_front/blob/main/static/img/logo_vo.png)
 
-# Vision Online Prueba Tecnica - Pablo Alejandro Perdomo
+<h2 align="center">Vision Online Prueba Tecnica - Pablo Alejandro Perdomo</h2>
 
 <p align="center"><a href="#"><img src="https://opencv-python-tutroals.readthedocs.io/en/latest/_static/opencv-logo-white.png" width="50px" alt="build status"></img></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="50px" alt="build status"></img></a></p>
 
