@@ -1,3 +1,7 @@
+![](https://github.com/Perdomo193/webservice_front/blob/main/static/img/logo_vo.png)
+
+# Vision Online Prueba Tecnica - Pablo Alejandro Perdomo
+
 <p align="center"><a href="#"><img src="https://opencv-python-tutroals.readthedocs.io/en/latest/_static/opencv-logo-white.png" width="50px" alt="build status"></img></a><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="50px" alt="build status"></img></a></p>
 
 <p align="center"><a href="#"><img src="http://runbot.odoo.com/runbot/badge/flat/1/master.svg" alt="build status"></img></a><a href="#"><img src="http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F" alt="tech doc"></img></a><a href="#"><img src="http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F" alt="help"></img></a><a href="#"><img src="http://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F" alt="builds"></img></a></p> 
