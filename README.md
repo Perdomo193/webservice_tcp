@@ -67,3 +67,13 @@ cmake ../
 cmake-gui
 ```
 con **cmake-gui** buscar QT y habilitar, con eso poner los folder de configuracion de cmake **[path]/Qt/5.9.0/5.9/gcc_64/lib/cmake**
+
+## Links Back-end y Cliente TCP
+
+Debe ingresar al `webservice-front` en el siguiente link:
+
+https://github.com/Perdomo193/webservice_front
+
+Debe ingresar al `webservice-backend` en el siguiente link:
+
+https://github.com/Perdomo193/webservice_backend
