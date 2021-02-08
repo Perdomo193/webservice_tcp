@@ -13,7 +13,6 @@
 class OvTaskImage : public QObject, public QRunnable {
     Q_OBJECT
 public:
-    //explicit OvTaskImage(QObject *parent = nullptr);
     OvTaskImage(QJsonObject params);
 
 signals:

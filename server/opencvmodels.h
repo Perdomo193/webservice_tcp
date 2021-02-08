@@ -59,10 +59,11 @@ public:
         *output = src_gray;
     };
 
-    static cv::Mat drawCircle(cv::Mat image);
-    static cv::Mat drawSquare(cv::Mat image);
-    static cv::Mat drawTriangle(cv::Mat image);
-    static cv::Mat drawPentagone(cv::Mat image);
+    static void drawCircle(cv::Mat image, cv::Point center, int radius);
+    static void drawRectangle(cv::Mat image, cv::Point corner_1, cv::Point corner_2);
+    static void drawTriangle(cv::Mat image, int cx, int cy, int base, int heigh);
+    static void drawPentagone(cv::Mat image, int cx, int cy, int radio);
+
 private:
 
 };
