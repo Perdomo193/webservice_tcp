@@ -7,11 +7,8 @@ CONFIG -= app_bundle
 # In order to do so, uncomment the following line.
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
-INCLUDEPATH += -I/usr/include \
-        -I/home/fuher/Qt/5.9.0/5.9/gcc_64/include
-
-LIBS += -L/home/fuher/Qt/5.9.0/5.9/gcc_64/lib
-
+INCLUDEPATH = -I/home/fuher/Qt/5.9.0/5.9/gcc_64/include
+LIBS = -L/home/fuher/Qt/5.9.0/5.9/gcc_64/lib
 LIBS += -L/home/fuher/Desktop/github/opencv/build/lib \
     -lopencv_core \
     -lopencv_imgcodecs \
