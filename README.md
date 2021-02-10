@@ -7,7 +7,7 @@
 <p align="center"><a href="#"><img src="http://runbot.odoo.com/runbot/badge/flat/1/master.svg" alt="build status"></img></a><a href="#"><img src="http://img.shields.io/badge/master-docs-875A7B.svg?style=flat&colorA=8F8F8F" alt="tech doc"></img></a><a href="#"><img src="http://img.shields.io/badge/master-help-875A7B.svg?style=flat&colorA=8F8F8F" alt="help"></img></a><a href="#"><img src="http://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F" alt="builds"></img></a></p> 
 
 <p align="center">
-Cliente TCP para aplicar los algoritmos de opencv, en este caso ya unos definidos. 
+Servicio TCP para aplicar los algoritmos de opencv, en este caso ya unos definidos. 
 </p>
 
 ## Compilación
